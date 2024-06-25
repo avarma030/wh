@@ -10,10 +10,10 @@ This project processes natural language user queries regarding newspaper article
 ## Installation
 
 **Clone the repository:**
-    ```sh
-    git clone https://github.com/avarma030/wh.git
-    cd wh
-    ```
+```sh
+git clone https://github.com/avarma030/wh.git
+cd wh
+```
 
 ## Usage
 
