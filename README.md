@@ -62,6 +62,10 @@ Additionally, the evaluation score of Experiment is perfect '1'
 ------------------------------------------------------------------------
 
 3. **Completed sample evaluations and their metrics:**
+```sh
+We can observe the-
+Run Count, Totak Tokens, Median Tokens, Error Rate and Latency for the individual LLM summons
+```
 ![Eval_sample](images/Screenshot_(132).png)
 
 ------------------------------------------------------------------------
