@@ -37,19 +37,29 @@ Please find the attached screenshots below for the evaluation results.
 ```
 
 1. **Evaluation results over a custom dataset:**
-![Eval_results](images/Screenshot1.png)
+![Eval_results](images/Screenshot_1.png)
+
+------------------------------------------------------------------------
 
 2. **Metrics of evaluation e.g Accuracy Score, Error Rate, and Latency:**
 ![Eval_metrics](images/Screenshot_(130).png)
 
+------------------------------------------------------------------------
+
 3. **Completed sample evaluations and their metrics:**
 ![Eval_sample](images/Screenshot_(132).png)
+
+------------------------------------------------------------------------
 
 4. **Actual LLm run sequence and respective output:**
 ![run_seq](images/Screenshot_(133).png)
 
+------------------------------------------------------------------------
+
 5. **Actual LLm run sequence and respective output:**
 ![run_seq](images/Screenshot_(133).png)
+
+------------------------------------------------------------------------
 
 6. **Evaluation criteria and prompt:**
 ![run_seq](images/Screenshot_(134).png)
