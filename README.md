@@ -17,12 +17,10 @@ cd wh
 
 ## Usage
 
-### Running the Application
-
-1. **Run the Jupyter Notebook:**
-    ```sh
-    jupyter notebook WH_assessment_solution.ipynb
-    ```
+### Running the Application:**
+```sh
+jupyter notebook WH_assessment_solution.ipynb
+```
 
 ### Evaluation and Testing:
 
