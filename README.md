@@ -17,7 +17,7 @@ cd wh
 
 ## Usage
 
-### Running the Application:**
+### Running the Application:
 ```sh
 jupyter notebook WH_assessment_solution.ipynb
 ```
