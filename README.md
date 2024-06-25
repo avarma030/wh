@@ -36,10 +36,13 @@ This project processes natural language user queries regarding newspaper article
     jupyter notebook WH_assessment_solution.ipynb
     ```
 
-### Evaluation and Testing
+### **Evaluation and Testing:**
+![Example Output](images/Screenshot_(133).png)
+
     This application has been evaluated and tested with the help of LangSmith.
     Please find the attached screenshots below for the evaluation results.
 
-    ![Sample runs](images/Screenshot (133).png)
+    
+    
 
 
