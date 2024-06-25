@@ -45,7 +45,7 @@ Please find the attached screenshots below for the evaluation results.
 It can be observed that the evaluation scores for all the runs are '1',
 which depicts that the application produces the expected output
 ```
-![Eval_results](images/Screenshot1.png)
+![Eval_results](images/SS_500.png)
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,8 @@ The input fed to the LLM, and the respective output produced.
 
 5. **Evaluation criteria and prompt:**
 ```sh
-Using LLM-as-a-Judge to evaluate it's own responses by defining a prompt that provides the criteria for reliable judgment.
+Using LLM-as-a-Judge to evaluate its own responses by defining a prompt that provides the criteria for reliable judgment.
+```
 ![run_seq](images/Screenshot_(134).png)
 
     
