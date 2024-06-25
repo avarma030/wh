@@ -45,7 +45,7 @@ Please find the attached screenshots below for the evaluation results.
 It can be observed that the evaluation scores for all the runs are '1',
 which depicts that the application produces the expected output
 ```
-![Eval_results](images/Screenshot_1.png)
+![Eval_results](images/Screenshot1.png)
 
 ------------------------------------------------------------------------
 
