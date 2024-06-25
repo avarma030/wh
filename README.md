@@ -55,6 +55,7 @@ According to the attached graphs-
 Accuracy Score = 1,
 Error rate = 0
 Latency = 1.19
+Additionally, the evaluation score of Experiment is perfect '1'
 ```
 ![Eval_metrics](images/Screenshot_(130).png)
 
