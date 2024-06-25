@@ -55,7 +55,7 @@ According to the attached graphs-
 Accuracy Score = 1,
 Error rate = 0
 Latency = 1.19
-Additionally, the evaluation score of Experiment is perfect '1'
+Additionally, the evaluation score of the Experiment is perfect '1'
 ```
 ![Eval_metrics](images/Screenshot_(130).png)
 
@@ -63,24 +63,25 @@ Additionally, the evaluation score of Experiment is perfect '1'
 
 3. **Completed sample evaluations and their metrics:**
 ```sh
-We can observe the-
-Run Count, Totak Tokens, Median Tokens, Error Rate and Latency for the individual LLM summons
+We can observe the -
+Run Count, Totak Tokens, Median Tokens, Error Rate, and Latency for the evaluations
 ```
 ![Eval_sample](images/Screenshot_(132).png)
 
 ------------------------------------------------------------------------
 
-4. **Actual LLm run sequence and respective output:**
+4. **Actual LLM run sequence and respective output:**
+```sh
+The attached screenshot peaks into an individual LLM summon.
+The input fed to the LLM, and the respective output produced.
+```
 ![run_seq](images/Screenshot_(133).png)
 
 ------------------------------------------------------------------------
 
-5. **Actual LLm run sequence and respective output:**
-![run_seq](images/Screenshot_(133).png)
-
-------------------------------------------------------------------------
-
-6. **Evaluation criteria and prompt:**
+5. **Evaluation criteria and prompt:**
+```sh
+Using LLM-as-a-Judge to evaluate it's own responses by defining a prompt that provides the criteria for reliable judgment.
 ![run_seq](images/Screenshot_(134).png)
 
     
