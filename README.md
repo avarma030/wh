@@ -2,6 +2,18 @@
 
 This project processes natural language user queries regarding newspaper article counts in specific divisions and countries using an LLM, LangChain for development, and LangSmith for testing and evaluation.
 
+it takes a a query from user in natural language and based on the "division" and "country" mentioned in this query, it fetches the "articles_count" from a given dataset (dataFrame) and outputs it in a JSON dictionary format.
+e.g - 
+user_query : Tell me the number of articles published by journalists in the Sports journalism division in the United States
+response : {
+            'Columns': ['articles_count'],
+            'Filters': {
+                'Division': 'sports',
+                'Country': 'USA'
+                },
+            'articles_count': 50
+            } 
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
