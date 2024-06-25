@@ -23,7 +23,6 @@ jupyter notebook WH_assessment_solution.ipynb
 ```
 
 ### Evaluation and Testing:
-
 ```sh
 This application has been evaluated and tested with the help of LangSmith.
 Please find the attached screenshots below for the evaluation results.
