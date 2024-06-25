@@ -41,11 +41,20 @@ Please find the attached screenshots below for the evaluation results.
 ```
 
 1. **Evaluation results over a custom dataset:**
+```sh
+It can be observed that the evaluation scores for all the runs are '1', which depicts that the application produces expected output
+```
 ![Eval_results](images/Screenshot_1.png)
 
 ------------------------------------------------------------------------
 
 2. **Metrics of evaluation e.g Accuracy Score, Error Rate, and Latency:**
+```sh
+According the attached graphs-
+Accuracy Score = 1,
+Error rate = 0
+Latency = 1.5
+```
 ![Eval_metrics](images/Screenshot_(130).png)
 
 ------------------------------------------------------------------------
