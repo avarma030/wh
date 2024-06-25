@@ -5,14 +5,7 @@ This project processes natural language user queries regarding newspaper article
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Dataset Preparation](#dataset-preparation)
-- [Query Processing](#query-processing)
-- [Evaluation](#evaluation)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact Information](#contact-information)
+- [Evaluation and Testing](#evaluation-and-testing)
 
 ## Installation
 
@@ -36,11 +29,32 @@ This project processes natural language user queries regarding newspaper article
     jupyter notebook WH_assessment_solution.ipynb
     ```
 
-### **Evaluation and Testing:**
-![Example Output](images/Screenshot_(133).png)
+### Evaluation and Testing:
 
-    This application has been evaluated and tested with the help of LangSmith.
-    Please find the attached screenshots below for the evaluation results.
+```sh
+This application has been evaluated and tested with the help of LangSmith.
+Please find the attached screenshots below for the evaluation results.
+```
+
+1. **Evaluation results over a custom dataset:**
+![Eval_results](images/Screenshot1.png)
+
+2. **Metrics of evaluation e.g Accuracy Score, Error Rate, and Latency:**
+![Eval_metrics](images/Screenshot_(130).png)
+
+3. **Completed sample evaluations and their metrics:**
+![Eval_sample](images/Screenshot_(132).png)
+
+4. **Actual LLm run sequence and respective output:**
+![run_seq](images/Screenshot_(133).png)
+
+5. **Actual LLm run sequence and respective output:**
+![run_seq](images/Screenshot_(133).png)
+
+6. **Evaluation criteria and prompt:**
+![run_seq](images/Screenshot_(134).png)
+
+    
 
     
     
