@@ -9,15 +9,10 @@ This project processes natural language user queries regarding newspaper article
 
 ## Installation
 
-1. **Clone the repository:**
+**Clone the repository:**
     ```sh
     git clone https://github.com/avarma030/wh.git
     cd wh
-    ```
-
-2. **Install the required packages:**
-    ```sh
-    pip install -r requirements.txt
     ```
 
 ## Usage
