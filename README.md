@@ -81,7 +81,7 @@ The input fed to the LLM, and the respective output produced.
 
 5. **Evaluation criteria and prompt:**
 ```sh
-Using LLM-as-a-Judge to evaluate it's own responses by defining a prompt that provides the criteria for reliable judgment.
+Using LLM-as-a-Judge to evaluate its own responses by defining a prompt that provides the criteria for reliable judgment.
 ```
 ![run_seq](images/Screenshot_(134).png)
 
